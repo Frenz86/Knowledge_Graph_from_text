@@ -3,8 +3,6 @@
 A Streamlit application that extract graph data (entities and relationships) from text input using LangChain and OpenAI's GPT models, and generates interactive graphs.
 ![CleanShot 2025-05-28 at 13 11 46](https://github.com/user-attachments/assets/4fef9158-8dd8-432d-bb8a-b53953a82c6c)
 
-👉 This repo is part of my project tutorial on Youtube:
-[![](https://img.youtube.com/vi/O-T_6KOXML4/0.jpg)](https://www.youtube.com/watch?v=O-T_6KOXML4)
 
 ## Features
 
@@ -83,8 +81,3 @@ The application uses LangChain's experimental graph transformers with OpenAI's G
 3. Generate a graph structure representing this information
 4. Visualize the graph using PyVis, a Python interface for the vis.js visualization library
 
-## License
-
-This project is licensed under the MIT License - a permissive open source license that allows for free use, modification, and distribution of the software.
-
-For more details, see the [MIT License](https://opensource.org/licenses/MIT) documentation.
